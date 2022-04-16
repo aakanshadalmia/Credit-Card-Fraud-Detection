@@ -1,4 +1,4 @@
-# Data-Science
+# Extracting information from an API
 
 This project deals with extracting the information from a Youtube API about data related to videos on a particular channel.
 
