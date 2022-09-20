@@ -2,9 +2,9 @@
 
 This project deals with building an end-to-end model to detect the occurrence of fraudulent transactions in a credit card company.
 
-Dataset contains around 284807 transactions with only 492 fraud transactions suggesting **high imbalance** in the datatset
+Dataset contains around 284,807 transactions with only 492 fraud transactions suggesting **high imbalance** in the datatset
 
-1. **Data Preprocessing**: Data was **scaled** and **Principal Component Analysis** was applied to find the most important features
+1. **Data Preprocessing**: Data was **scaled** and **Principal Component Analysis** was applied to the data to reduce dimensionality while still retaining maximum information
 
 2. **Model Training:** Multiple models like **Decision Tree, KNN, Logistic Regression, SVM, Random Forest, XGBoost** have been trained on the reformed dataset
 
