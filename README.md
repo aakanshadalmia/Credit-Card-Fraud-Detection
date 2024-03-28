@@ -12,4 +12,7 @@ Dataset contains around 284,807 transactions with only 492 fraud transactions su
 
 4. **Improvisation:** To further improve the performance of the models, **hyperparameter tuning** was conducted to obtain the best set of paramaters for each model
 
-5. **Conclusion:** Finally, the performance of all models was compared to reveal the best performing model 
+5. **Conclusion:** Finally, the performance of all models was compared to reveal the best performing model
+<p align="center">
+  <img src="https://github.com/aakanshadalmia/Credit-Card-Fraud-Detection/assets/35634210/6551b8c1-c414-48db-a2e1-afae6dc5d045" alt="image" style="width: 50%;">
+</p>
